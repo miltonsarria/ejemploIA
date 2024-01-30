@@ -1,0 +1,32 @@
+ID | Nombre           | Edad | Género | Peso (kg) | Altura (cm) | Estado Civil | Ingresos ($) | Comentarios                                  |
+---|------------------|------|--------|-----------|-------------|--------------|--------------|----------------------------------------------|
+1  | Ana Smith        | 28   | F      | 65.2      | 162         | Soltero      | 45000        | Buen rendimiento académico                   |
+2  | John Doe         | 32   | M      | 78.5      | 178         | Casado       | 60000        | NaN                                          |
+3  | María Pérez      | 22   | F      | NaN       | 155         | Soltero      | 35000        | Registro incompleto de peso                  |
+4  | Carlos Rodríguez | 40   | M      | 90.8      | NaN         | Divorciado   | 75000        | NaN                                          |
+5  | Laura García     | 35   | F      | 60.1      | 170         | Casado       | NaN          | Ingresos no registrados                      |
+6  | Javier López     | NaN  | M      | 85.0      | 175         | NaN          | 50000        | Edad no registrada                           |
+7  | Sara Torres      | 29   | F      | 70.3      | 165         | Soltero      | 42000        | NaN                                          |
+8  | Juan Ramírez     | 38   | M      | 75.6      | 180         | Casado       | 68000        | Comentario ofensivo en los comentarios       |
+9  | Gabriela Soto    | 25   | F      | 55.9      | 160         | Soltero      | 38000        | NaN                                          |
+10 | Luis Martínez    | 45   | M      | 82.3      | 175         | Viudo        | 80000        | NaN                                          |
+11 | Carmen Mendoza   | 33   | F      | 68.7      | 168         | Casado       | 55000        | NaN                                          |
+12 | Pablo Herrera    | 27   | M      | 79.0      | 182         | Soltero      | 60000        | NaN                                          |
+13 | Andrea Gómez     | 31   | F      | 63.5      | 167         | Divorciado   | 47000        | NaN                                          |
+14 | Raúl Vargas      | 28   | M      | 76.8      | 175         | Soltero      | 52000        | NaN                                          |
+15 | Natalia Díaz     | 26   | F      | 57.2      | 160         | Casado       | 60000        | NaN                                          |
+16 | Luisa Ramos      | 42   | F      | 64.3      | 163         | Viuda        | 72000        | NaN                                          |
+17 | Alejandro Torres | 29   | M      | 85.5      | 178         | Soltero      | NaN          | Ingresos no registrados                      |
+18 | Marta Castro     | 34   | F      | 69.8      | 175         | Casado       | 58000        | NaN                                          |
+19 | Andrés Sánchez   | 36   | M      | 91.2      | 180         | Soltero      | 70000        | NaN                                          |
+20 | Carolina Márquez | 30   | F      | 62.0      | 165         | Soltero      | 49000        | NaN                                          |
+21 | Gabriel Gutiérrez| 39   | M      | 78.2      | 177         | Casado       | 75000        | NaN                                          |
+22 | Sofía Jiménez    | 24   | F      | 56.4      | 160         | Soltero      | 42000        | NaN                                          |
+23 | Raúl Molina      | 37   | M      | 83.7      | 182         | Casado       | 68000        | NaN                                          |
+24 | Paola Ramírez    | 28   | F      | 61.9      | 168         | Divorciada   | 50000        | NaN                                          |
+25 | David Montoya    | 32   | M      | NaN       | 175         | Soltero      | 55000        | Edad y Peso no registrados                   |
+26 | Laura Silva      | 29   | F      | 59.6      | 162         | Soltero      | 46000        | NaN                                          |
+27 | Eduardo Varela   | 41   | M      | 87.4      | 178         | Casado       | 78000        | NaN                                          |
+28 | Isabel Castro    | 33   | F      | 70.1      | 167         | Casada       | 60000        | NaN                                          |
+29 | Federico Ramírez | 27   | M      | 74.3      | 175         | Soltero      | 52000        | NaN                                          |
+30 | Ana González     | 31   | F      | 66.8      | 170         | Soltera      | 49000        | NaN                                          |
